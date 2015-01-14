@@ -26,6 +26,15 @@ array.push(cahlan);
 var lenny = new User("Lenny", "lenny@theLenster@gmail.com", "iLoveLentilSoup");
 array.push(lenny);
 
+// OR ------ ANOTHER WAY TP WRITE IT BELOW WITHOUT USING VARIABLES
+
+// users.push{
+// 	new User("Tyler", "tylermcginnis33@gmail.com", "iLoveJS");
+// 	new User("Cahlan", "Cahlan@devmounta.in", "iLoveHashtags");
+// 	new User("Lenny", "lenny@theLenster@gmail.com", "iLoveLentilSoup");
+// }
+
+
 console.log('Tyler\'s information is ');
 //Console.log all of Tylers information
 
